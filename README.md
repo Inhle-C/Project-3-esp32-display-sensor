@@ -1,4 +1,5 @@
 # Project 3: Display Humidity and Temperature with ESP32
+![IMG_8267](https://github.com/user-attachments/assets/36359f5b-a3b6-4b4d-982d-baa6c218594a)
 
 **Part 3 of my IoT Lab Series using ESP32 and Raspberry Pi 4**
 
@@ -80,7 +81,7 @@ while (true) {
 
 3. Verify live updates on the display during project check-off
 
-## Notes
+### Notes
 
 - Exclude build/ directories when zipping the project.
 - Submit the required directories only: lab3_2/* and lab3_3/*
@@ -104,7 +105,6 @@ while (true) {
 - Expand to display additional sensors or messages
 
 ## License
-
 This project is for educational purposes.
 
 Previous Project: [ESP32 Debugging and Sensor Integration](https://github.com/Inhle-C/Project-2-esp32-lab2-debugging-sensor)  
