@@ -27,6 +27,7 @@ esp32-lab3-display-sensor/
 │ ├── sdkconfig  
 │ ├── CMakeLists.txt  
 │ ├── README.md  
+│ ├── hello_word.bin  //not in the file because too big  
 │ └── main/  
 │ ├── CMakeLists.txt  
 │ ├── main.cpp  
@@ -35,6 +36,7 @@ esp32-lab3-display-sensor/
 │ ├── sdkconfig  
 │ ├── CMakeLists.txt  
 │ ├── README.md  
+│ ├── hello_word.bin  //not in the file because too big  
 │ └── main/  
 │ ├── CMakeLists.txt  
 │ ├── main.cpp  
