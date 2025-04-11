@@ -20,19 +20,24 @@ The goal is to develop skills in writing hardware-level C++ libraries and integr
 
 ## Project Structure
 
-esp32-lab2-debugging-sensor/  
+esp32-lab3-display-sensor/  
 ├── report.pdf # Lab report (required)  
-├── lab2_debug/ # Lab 2.1: GDB Debugging  
-│ ├── lab2_debug.elf  
-│ ├── lab2_image.S  
-│ └── gdbinit  
-├── lab2_2/ # Lab 2.2: Humidity and Temperature Sensor  
+├── lab3_2/ # Lab 3.2: Display Library  
 │ ├── sdkconfig  
 │ ├── CMakeLists.txt  
 │ ├── README.md  
 │ └── main/  
 │ ├── CMakeLists.txt  
-│ ├── main.c  
+│ ├── main.cpp  
+│ └── lcd_display.h  
+├── lab3_3/ # Lab 3.3: Integrate Sensor and Display  
+│ ├── sdkconfig  
+│ ├── CMakeLists.txt  
+│ ├── README.md  
+│ └── main/  
+│ ├── CMakeLists.txt  
+│ ├── main.cpp  
+│ └── lcd_display.h  
 │ └── sensor.h  
 
 
