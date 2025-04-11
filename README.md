@@ -112,5 +112,5 @@ This project is for educational purposes.
 Previous Project: [ESP32 Debugging and Sensor Integration](https://github.com/Inhle-C/Project-2-esp32-lab2-debugging-sensor)  
 (Part 2 of the series)
 
-Next Project: ESP32 Sensor Data Logger 🔗  
+Next Project: [ESP32 Sensor Data Logger](https://github.com/Inhle-C/Project-4-esp32-bluetooth-mouse)
 (To be uploaded as Part 4 of the series)
